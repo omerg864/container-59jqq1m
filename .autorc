@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "omerg864",
+  "repo": "container-59jqq1m",
+  "name": "omerg864",
+  "email": "omerg863@gmail.com",
+}
